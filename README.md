@@ -24,11 +24,11 @@ Esta demo pode ser aprimorada de diversas formas, incluindo:
 ## Como Executar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone [https://github.com/seu-usuario/seu-repositorio.git]
    ```
 2. Instale as dependências:
    ```sh
-   pip install -r requirements.txt  # ou especifique as dependências utilizadas
+   pip install -r requirements.txt 
    ```
 3. Execute a simulação:
    ```sh
