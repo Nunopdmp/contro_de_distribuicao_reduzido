@@ -1,0 +1,1 @@
+# contro_de_distribuicao_reduzido
