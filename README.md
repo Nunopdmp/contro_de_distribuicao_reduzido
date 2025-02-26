@@ -32,7 +32,7 @@ Esta demo pode ser aprimorada de diversas formas, incluindo:
    ```
 3. Execute a simulação:
    ```sh
-   python main.py  # ou o comando correspondente
+   python main.py  
    ```
 
 ## Contribuição
